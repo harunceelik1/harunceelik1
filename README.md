@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [https://haruncelik-portfolio.vercel.app/](https://haruncelik-portfolio.vercel.app/)
+- 👨‍💻 My portfolio  available at [https://haruncelik.vercel.app/)
 
 - 📫 How to reach me **harunclk.hc@gmail.com**
 
